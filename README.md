@@ -2,7 +2,9 @@
 
 
 1-Suposto problema em que seja necessario comparar os objetos do tipo Client
+
 2-Vamos comparar o email e nome...
+
 2.1-Nao sera possivel comparar so por nome.. pois as pessoas podem ter nomes iguais,porem email diferente
 e segue a mesma logica para comparacao somente por email...
 
